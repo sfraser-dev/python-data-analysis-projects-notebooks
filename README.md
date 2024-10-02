@@ -10,3 +10,4 @@ Frameworks used:
 - Seaborn
 - Scipy
 
+Note: Use the "ipykernel" (IPython kernel) package if want a virtual environment for the notebook.
